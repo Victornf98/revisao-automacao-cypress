@@ -1,0 +1,14 @@
+{
+  "name": "trainning-weels",
+  "version": "1.0.0",
+  "description": "Projeto para reforçar o conhecimento ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Victor Ferreira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.4.1"
+  }
+}
